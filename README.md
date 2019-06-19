@@ -1,5 +1,5 @@
 # Ewha Research Project
-
+ This is first step for face denoising project. To show our needs, we conducted dncnn model with face image.
 # DnCNN-keras     
 
 This code is modified from [husqin](https://github.com/husqin/DnCNN-keras).
